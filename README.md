@@ -21,7 +21,7 @@ We don't know.
   - Changing to specific server (LA server) seemed to fix the issue (default may have been trying to connect to Portland server)?
     - A lot of things were tried, something else may have fixed the issue but it lingered and this change may have helped finish flushing away the problem somehow
 - OBS setup issues?
-- Model issues?
+- Modem issues?
   - ISP has replaced modem
 - Computer issues?
   - Tried using different computer and gotten similar issue
